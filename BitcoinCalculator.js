@@ -89,6 +89,6 @@ for (let currRow of data) {
     }
 }
 
-let leftAmount = calculateLeftAmount();
-let leftValue = calculateLeftValue();
-let n = 3;
+console.log("left Amount:", calculateLeftAmount());
+console.log("left Value:", calculateLeftValue());
+console.log("calculated profit: ", bitcoinProfit - bitcoinLoss);
