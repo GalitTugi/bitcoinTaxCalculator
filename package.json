@@ -1,0 +1,23 @@
+{
+  "name": "bitcoin-calcualtor",
+  "version": "1.0.0",
+  "description": "calculated tax for bitcoin trades",
+  "main": "BitcoinCalculator.js",
+  "dependencies": {
+    "convert-excel-to-json": "^1.6.1",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalitTugi/bitcoinTaxCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalitTugi/bitcoinTaxCalculator/issues"
+  },
+  "homepage": "https://github.com/GalitTugi/bitcoinTaxCalculator#readme"
+}
