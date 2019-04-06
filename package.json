@@ -5,6 +5,8 @@
   "main": "BitcoinCalculator.js",
   "dependencies": {
     "convert-excel-to-json": "^1.6.1",
+    "excel4node": "^1.7.1",
+    "js2excel": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
